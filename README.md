@@ -50,7 +50,7 @@ The following languages are what we currently use in our company and will be giv
 
 ### Hosted App Link
 
-    Paste your hosted application url here: __
+    Paste your hosted application url here: https://chesa-valuechain.herokuapp.com/
 
 ### Comments
 
